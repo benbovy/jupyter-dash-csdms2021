@@ -1,0 +1,17 @@
+name: jupyter-dash-csdms2021
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - fastscape
+  - landlab
+  - bmi-topography
+  - jupyterlab
+  - ipyfastscape
+  - ipyleaflet
+  - ipycanvas
+  - ipympl
+  - hvplot
+  - voila
+  - voila-gridstack
+  - pip
