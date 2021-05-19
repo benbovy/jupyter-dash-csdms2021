@@ -4,8 +4,8 @@
 # Building Interactive Dashboards for Earth Surface Processes Modeling with Python and Jupyter (CSDMS 2021)
 
 This repository contains a collection of [Jupyter](http://jupyter.org/)
-notebooks for the [CSDMS2021](https://csdms.colorado.edu/wiki/Form:Annualmeeting2021)
-"Building Interactive Dashboards for Earth Surface Processes Modeling with Python and Jupyter"
+notebooks for the [CSDMS-2021](https://csdms.colorado.edu/wiki/Form:Annualmeeting2021)
+"Building Interactive Dashboards for Earth Surface Processes Modeling with Python and Jupyter" clinic.
 
 - [How to run the notebooks?](#how-to-run-the-notebooks)
     - [Run in the cloud (Binder)](#run-in-the-cloud-binder)
